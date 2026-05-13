@@ -249,6 +249,7 @@ Telepon: 082170814310
 📜 Lisensi
 
 Hak Cipta © 2026 – Tim Cerdas Bangsa
+
 Kode ini dirilis untuk tujuan pendidikan dan uji coba kebijakan keuangan berkelanjutan.
 
 ---
