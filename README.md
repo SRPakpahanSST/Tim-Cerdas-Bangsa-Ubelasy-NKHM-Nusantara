@@ -18,10 +18,10 @@ Klik Lencana di bawah sini:
 ```markdown
 # 🌾 Sistem Keuangan Berkelanjutan Nusantara
 
-**Two-in-One Platform: Sistem Pinjaman Ubelasy + NKHM Nusantara**
+**Two-in-One Platform: Sistem Pinjaman Ubelasy + Gaming NKHM Nusantara**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sistem-keuangan-nusantara.streamlit.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-SRPakpahanSST%2FSistem--Keuangan--Nusantara-181717?logo=github)](https://github.com/SRPakpahanSST/Sistem-Keuangan-Nusantara)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ubelasy-nkhm-nusantara.streamlit.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-SRPakpahanSST%2FTim-Cerdas-Bangsa-Ubelasy-NKHM-Nusantara-181717?logo=github)](https://github.com/SRPakpahanSST/Tim-Cerdas-Bangsa-Ubelasy-NKHM-Nusantara)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
@@ -260,11 +260,7 @@ Kode ini dirilis untuk tujuan pendidikan dan uji coba kebijakan keuangan berkela
 
 ## ✅ Langkah Selanjutnya
 
-1. **Buat file `README.md`** di repository baru `Sistem-Keuangan-Nusantara`
-2. **Salin isi di atas** ke file tersebut
-3. **Commit** ke GitHub
-
-Setelah itu, halaman utama repository GitHub Anda akan menampilkan dokumentasi yang rapi dan profesional, mencakup:
+Halaman utama repository GitHub ini akan menampilkan dokumentasi yang rapi dan profesional, mencakup:
 - Badge status aplikasi
 - Penjelasan kedua sistem
 - Cara penggunaan
