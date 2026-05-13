@@ -264,6 +264,7 @@ Kode ini dirilis untuk tujuan pendidikan dan uji coba kebijakan keuangan berkela
 
 Halaman utama repository GitHub ini akan menampilkan dokumentasi yang rapi dan profesional, mencakup:
 - Badge status aplikasi
+- Program Pinjaman Ubelasy Perbankan
 - Penjelasan kedua sistem
 - Cara penggunaan
 - Instalasi lokal
