@@ -2,7 +2,7 @@
 
 Aplikasi Keuangan Sistem Pinjaman Ubelasy Berbasis Pembebasan Sisa Hutang (PSH), dan Aplikasi gaming NKHM (Nilai Kesanggupan Hidup Manusia) Nusantara Berbasis Data Personal.
 
-Two in One dalam Satu Aplikasi yang memiliki dua mode di sidebar kiri (Dua aplikasi: 🌾 Sistem Ubelasy: Simulasi pinjaman keuangan berkelanjutan, dan  🌿 NKHM Nusantara: Game asah 4 Kecerdasan + Nasionalisme.
+Two in One dalam Satu Aplikasi yang memiliki dua mode di sidebar kiri (Dua aplikasi: 🌾 Sistem Ubelasy: Simulasi pinjaman keuangan berkelanjutan, dan  🌿 NKHM Nusantara: Game asah 4 Kecerdasan (IQ + EQ + SQ + AQ) + Nasionalisme.
 
 Klik Lencana di bawah sini:
 <p align="center">
@@ -29,7 +29,7 @@ Klik Lencana di bawah sini:
 
 ## 📖 Tentang Aplikasi
 
-Repository ini berisi **dua aplikasi: keuangan berkelanjutan + kecerdasan nusantara** yang dapat diakses melalui satu platform dengan pilihan di sidebar:
+Repository ini berisi **dua aplikasi: keuangan (pinjaman Obelasy) berkelanjutan + 4 kecerdasan (NKHM) nusantara** yang dapat diakses melalui satu platform dengan pilihan di sidebar:
 
 | Aplikasi | Fungsi | Landasan |
 |----------|--------|----------|
