@@ -5,7 +5,7 @@ Aplikasi Keuangan Sistem Pinjaman Berbasis PSH, dan Aplikasi gaming NKHM Nusanta
 Two in One dalam Satu Aplikasi yang memiliki dua mode di sidebar kiri (Aplikasi 🌾 Sistem Ubelasy: Simulasi pinjaman keuangan berkelanjutan, dan  🌿 NKHM Nusantara: Game asah 4 Kecerdasan + Nasionalisme.
 
 <p align="center">
-  <a href="https://tim-cerdas-bangsa-ubelasy-nkhm-nusantara.streamlit.app/">
+  <a href="https://cerdas-bangsa-ubelasy-nkhm-nusantara.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀_Coba_Sekarang-Sistem_Keuangan_Nusantara-2e7d32?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App">
   </a>
   <a href="https://github.com/SRPakpahanSST/Tim-Cerdas-Bangsa-Ubelasy-NKHM-Nusantara">
