@@ -1,7 +1,6 @@
 # Tim-Cerdas-Bangsa-Ubelasy-NKHM-Nusantara
 Aplikasi Keuangan Sistem Pinjaman Berbasis PSH, dan Aplikasi gaming NKHM Nusantara Berbasis Data Personal.
 
-# Ubelasy-NKHM-Nusantara
 Two in One dalam Satu Aplikasi yang memiliki dua mode di sidebar kiri (Aplikasi 🌾 Sistem Ubelasy: Simulasi pinjaman keuangan berkelanjutan, dan  🌿 NKHM Nusantara: Game asah 4 Kecerdasan + Nasionalisme.
 
 Klik Lencana di bawah sini:
