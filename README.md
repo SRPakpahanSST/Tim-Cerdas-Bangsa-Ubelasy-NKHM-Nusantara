@@ -28,14 +28,14 @@ Klik Lencana di bawah sini:
 
 ## 📖 Tentang Aplikasi
 
-Repository ini berisi **dua aplikasi keuangan berkelanjutan** yang dapat diakses melalui satu platform dengan pilihan di sidebar:
+Repository ini berisi **dua aplikasi: keuangan berkelanjutan + kecerdasan nusantara** yang dapat diakses melalui satu platform dengan pilihan di sidebar:
 
 | Aplikasi | Fungsi | Landasan |
 |----------|--------|----------|
 | 🌾 **Sistem Ubelasy** | Simulasi pinjaman dengan skema pembebasan sisa hutang (PSH) berbasis Tahun Yobel | Imamat 25:8-10 |
 | 🌿 **NKHM Nusantara** | Game asah 4 kecerdasan (IQ, EQ, SQ, AQ) + Nasionalisme dengan AI Asisten | Rumus NKHM & nilai kebangsaan |
 
-Kedua aplikasi dirancang untuk mendukung **ketahanan pangan dan energi** serta **pengembangan sumber daya manusia** di Sumatera Selatan.
+Kedua aplikasi dirancang untuk mendukung **ketahanan pangan dan energi** serta **pengembangan sumber daya manusia** di Nusantara.
 
 ---
 
@@ -43,7 +43,7 @@ Kedua aplikasi dirancang untuk mendukung **ketahanan pangan dan energi** serta *
 
 Aplikasi telah dideploy ke **Streamlit Cloud** dan dapat diakses publik melalui:
 
-👉 [**https://sistem-keuangan-nusantara.streamlit.app**](https://sistem-keuangan-nusantara.streamlit.app)
+👉 [**(https://ubelasy-nkhm-nusantara.streamlit.app/)**](https://ubelasy-nkhm-nusantara.streamlit.app/)
 
 ### Cara Penggunaan:
 1. Buka URL di atas
@@ -89,7 +89,7 @@ Sistem-Keuangan-Nusantara/
 
 ---
 
-## 🌾 Sistem Ubelasy (Pinjaman Yobel)
+## 🌾 Sistem Ubelasy (Pinjaman Berbasis PSH)
 
 ### Konsep
 Terinspirasi dari **Kitab Imamat 25:8-10** (Tahun Yobel), Sistem Ubelasy menawarkan skema pinjaman dengan:
@@ -239,7 +239,7 @@ Silakan buka issue atau kirim pull request.
 
 📧 Kontak
 
-Penulis & Pengembang: SR Pakpahan, SST
+Penulis & Pengembang: Tim Cerdas Bangsa (Dr Dony, SR Pakpahan SST, Eko Teguh Wicaksono, Veriana Erfina)
 Email: pakpahan.ministry@gmail.com
 Telepon: 082170814310
 
@@ -247,7 +247,7 @@ Telepon: 082170814310
 
 📜 Lisensi
 
-Hak Cipta © 2026 – Pakpahan Ministry
+Hak Cipta © 2026 – Tim Cerdas Bangsa
 Kode ini dirilis untuk tujuan pendidikan dan uji coba kebijakan keuangan berkelanjutan.
 
 ---
