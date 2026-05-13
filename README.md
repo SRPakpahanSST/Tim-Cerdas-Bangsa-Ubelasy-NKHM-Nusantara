@@ -250,7 +250,7 @@ Telepon: 082170814310
 
 Hak Cipta © 2026 – Tim Cerdas Bangsa
 
-Kode ini dirilis untuk tujuan pendidikan dan uji coba kebijakan keuangan berkelanjutan.
+Kode ini dirilis untuk tujuan pendidikan dan uji coba kebijakan keuangan (pinjaman) berkelanjutan.
 
 ---
 
